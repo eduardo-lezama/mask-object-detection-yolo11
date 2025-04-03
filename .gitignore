@@ -5,7 +5,7 @@ runs/
 # Archivos de modelos entrenados o checkpoints
 *.pth
 *.pt
-
+*.yamlgit rm --cached archivo.yaml
 
 # Archivos temporales del sistema operativo
 .DS_Store
