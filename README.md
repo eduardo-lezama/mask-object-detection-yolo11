@@ -87,7 +87,7 @@ Download it from the above link and extract in the root folder to work with the 
 ## 📂 **Project Structure**
 The project is organized in a modular way imported in the main Jupyter Notebook to improve code readability and maintainability.
 ```markdown
-Aerial-Scene-Classifier/
+mask-object-detection-yolo11/
 ├── assets/                        # Images for the README file
 ├── model_results/                 # Model results and weights available to be used
 ├── src/                           # Modular code used in the project
