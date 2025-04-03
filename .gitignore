@@ -1,0 +1,30 @@
+# Carpeta donde guardas tu dataset
+dataset/
+runs/
+
+# Archivos de modelos entrenados o checkpoints
+*.pth
+*.pt
+
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de tu IDE
+.vscode/
+.idea/
+__pycache__/
+
+# Carpeta del entorno virtual
+venv/
+.env/
+
+# Archivos de logs generados por tu programa
+*.log
+
+# Carpetas donde guardas resultados de tus experimentos
+runs/
+
+# Carpeta con jupyter original y backup
+other_tests_notebooks/
