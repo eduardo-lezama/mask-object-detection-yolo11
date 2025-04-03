@@ -1,9 +1,0 @@
-
-path: "/home/edu_pc/Projects/Mask_detector_3classes/dataset/_stratified_dataset"
-train: "train"
-val: "val"
-
-names:
-  0: without_mask
-  1: with_mask
-  2: mask_weared_incorrect
