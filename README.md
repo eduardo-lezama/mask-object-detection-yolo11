@@ -11,7 +11,13 @@ Important points of this walktrough:
 3. Model Sharing: Includes the trained model weights for immediate usage or further experimentation.
 
 Dive into this comprehensive example to explore my results achieved with YOLOv11!
-  
+
+Here is a little sample using the trained model on a video for "sample" real-time detection 😄
+
+<p align="center">
+    <img src="./assets/demo_RT.gif" alt="Demo RT" width="400"/>
+</p>
+ 
 ---
 
 ## ✨ **Highlight results**
