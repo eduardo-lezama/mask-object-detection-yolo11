@@ -128,7 +128,7 @@ mask-object-detection-yolo11/
 ### **1. Clone the repository**
 Clone the project in your local machine:
 ```bash
-git clone https://github.com/tu-usuario/City-Scene-Classifier.git
+git clone https://github.com/eduardo-lezama/mask-object-detection-yolo11.git
 ```
 ### **2. Download the dataset**
 The dataset required for this project is hosted in Kaggle. Follow these steps to download it:
