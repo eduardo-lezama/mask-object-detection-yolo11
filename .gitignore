@@ -5,7 +5,8 @@ runs/
 # Archivos de modelos entrenados o checkpoints
 *.pth
 *.pt
-*.yamlgit rm --cached archivo.yaml
+*.yaml
+*.mp4
 
 # Archivos temporales del sistema operativo
 .DS_Store
@@ -28,3 +29,4 @@ runs/
 
 # Carpeta con jupyter original y backup
 other_tests_notebooks/
+video/
